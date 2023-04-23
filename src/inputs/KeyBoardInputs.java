@@ -34,7 +34,7 @@ public class KeyBoardInputs implements KeyListener {
             case KeyEvent.VK_D:
                 gamePanel.changeXDelta(5);//RIGHT
                 break;
-        }
+        } //movements
     }
 
     @Override
