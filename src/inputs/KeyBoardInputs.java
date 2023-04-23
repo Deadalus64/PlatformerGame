@@ -6,7 +6,7 @@ import java.awt.event.KeyListener;
 
 public class KeyBoardInputs implements KeyListener {
 
-    private GamePanel gamePanel; //globar variable
+    private GamePanel gamePanel; //global variable
 
     public KeyBoardInputs(GamePanel gamePanel){
         //this constructor will take a gamePanel
