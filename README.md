@@ -1,3 +1,3 @@
 # PlatformerGame
-My first Platformer game using only Java
-No external libraries!
+My first Platformer game using only Java. 
+With no external libraries!
